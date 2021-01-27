@@ -1,0 +1,17 @@
+.azul {
+    color: aliceblue;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    transition: 0.5s all;
+}
+
+.azul:hover {
+    color: green;
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    border-bottom-right-radius: 50px;
+}
